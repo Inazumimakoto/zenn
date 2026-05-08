@@ -18,7 +18,7 @@ published: true
 
 2026年3月、筆者は学会参加のため沖縄に滞在していた。滞在中にふと自分のサイトを開いてみるとページがまったく表示されない。サーバーの電源が落ちたのかと思い、家に泊まっていた友人に連絡してMac miniの状況を確認してもらった。ほどなくして届いた返信には、次のような内容が含まれていた。
 
-![友人にMac miniの状態を確認してもらったときのやり取り](/images/mac-tcp-report/okinawa-mac-mini-check.jpg)
+![友人にMac miniの状態を確認してもらったときのやり取り](/images/mac-tcp-report/okinawa-mac-mini-check.jpg =360x)
 *友人にMac miniの状態を確認してもらったときのやり取り*
 
 - Mac miniの電源は入っており、YouTubeでNew Jeansの動画が再生されている。
