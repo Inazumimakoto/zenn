@@ -1,5 +1,5 @@
 ---
-title: "約49.7日で起きた“TCP時計の停止”：実体験と分析の記録"
+title: "49.7日目、MacのTCP時計は止まった"
 emoji: "🕰️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["macos", "tcp", "network", "cloudflare"]
